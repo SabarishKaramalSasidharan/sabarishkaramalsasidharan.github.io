@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Feditorial-v3\u002F[project]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
