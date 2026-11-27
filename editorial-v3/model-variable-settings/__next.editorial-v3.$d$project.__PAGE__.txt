@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 3:I[97367,["/_next/static/chunks/1vznjos3gdjxb.js","/_next/static/chunks/14mumt5_n0xhi.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/_next/static/chunks/0n2-1gu-qrels.css","style"]
-0:{"rsc":["$","$1","c",{"children":["$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0n2-1gu-qrels.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2mo3pvelkkz7l.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TB7zsx7CckxQCqwtR_Isn"}
+:HL["/_next/static/chunks/0omucpobfup0i.css","style"]
+0:{"rsc":["$","$1","c",{"children":["$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0omucpobfup0i.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2mo3pvelkkz7l.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rx5Q0ZNDr0nriH3ViF-0a"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/editorial-v3/companies/salesforce#field-settings-redesign;307;"}
